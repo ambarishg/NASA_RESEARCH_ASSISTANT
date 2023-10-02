@@ -1,0 +1,7 @@
+CV.CSV
+CV_2022.CSV
+*.csv
+uploaded_files
+__pycache__
+NTRS.csv
+NTRS80K.csv
